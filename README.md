@@ -34,14 +34,14 @@ Think of Claudia as your command center for Claude Code - bridging the gap betwe
 ## 📋 Table of Contents
 
 - [🌟 Overview](#-overview)
+- [📋 Table of Contents](#-table-of-contents)
 - [✨ Features](#-features)
-  - [🗂️ Project & Session Management](#️-project--session-management)
-  - [🤖 CC Agents](#-cc-agents)
-  
-  - [📊 Usage Analytics Dashboard](#-usage-analytics-dashboard)
-  - [🔌 MCP Server Management](#-mcp-server-management)
-  - [⏰ Timeline & Checkpoints](#-timeline--checkpoints)
-  - [📝 CLAUDE.md Management](#-claudemd-management)
+  - [🗂️ **Project \& Session Management**](#️-project--session-management)
+  - [🤖 **CC Agents**](#-cc-agents)
+  - [📊 **Usage Analytics Dashboard**](#-usage-analytics-dashboard)
+  - [🔌 **MCP Server Management**](#-mcp-server-management)
+  - [⏰ **Timeline \& Checkpoints**](#-timeline--checkpoints)
+  - [📝 **CLAUDE.md Management**](#-claudemd-management)
 - [📖 Usage](#-usage)
   - [Getting Started](#getting-started)
   - [Managing Projects](#managing-projects)
@@ -49,12 +49,29 @@ Think of Claudia as your command center for Claude Code - bridging the gap betwe
   - [Tracking Usage](#tracking-usage)
   - [Working with MCP Servers](#working-with-mcp-servers)
 - [🚀 Installation](#-installation)
+  - [Prerequisites](#prerequisites)
+  - [Release Executables Will Be Published Soon](#release-executables-will-be-published-soon)
 - [🔨 Build from Source](#-build-from-source)
+  - [Prerequisites](#prerequisites-1)
+    - [System Requirements](#system-requirements)
+    - [Required Tools](#required-tools)
+    - [Platform-Specific Dependencies](#platform-specific-dependencies)
+  - [Build Steps](#build-steps)
+  - [Troubleshooting](#troubleshooting)
+    - [Common Issues](#common-issues)
+    - [Verify Your Build](#verify-your-build)
+  - [Build Artifacts](#build-artifacts)
 - [🛠️ Development](#️-development)
+  - [Tech Stack](#tech-stack)
+  - [Project Structure](#project-structure)
+  - [Development Commands](#development-commands)
 - [🔒 Security](#-security)
 - [🤝 Contributing](#-contributing)
+  - [Areas for Contribution](#areas-for-contribution)
 - [📄 License](#-license)
 - [🙏 Acknowledgments](#-acknowledgments)
+- [Star History](#star-history)
+  - [remote](#remote)
 
 ## ✨ Features
 
@@ -416,3 +433,8 @@ This project is licensed under the AGPL License - see the [LICENSE](LICENSE) fil
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=getAsterisk/claudia&type=Date)](https://www.star-history.com/#getAsterisk/claudia&Date)
+
+
+### remote 
+origin  https://github.com/getAsterisk/claudia.git (fetch)
+origin  https://github.com/getAsterisk/claudia.git (push) 
